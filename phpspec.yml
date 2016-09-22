@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: CAS
+        psr4_prefix: CAS
+        src_path: app
